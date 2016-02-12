@@ -1,0 +1,6 @@
+Please select which mode you want to play in.
+In player mode, the computer choose the colored pegs, and the player must guess the pattern. 
+In computer mode, the player will choose the pegs and the computer guesses what the pattern is.
+You must enter the number of games you want to play.
+
+enter 0 for additional intstructions

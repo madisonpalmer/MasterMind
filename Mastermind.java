@@ -8,6 +8,9 @@ public class Mastermind {
    }
     
    public Mastermind () {
+      System.out.println("Welcome to the game Mastermind!");
+      
+       
       Scanner scanner = new Scanner(System.in);
       boolean validInput = false;
       int numRounds = 0;
